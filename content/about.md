@@ -21,11 +21,7 @@ During my BSc and MSc studies I had an opportunity to participate in fascinating
 
 In my spare time I develop several international projects devoted to management and logistics. Moreover, I have a pleasure to lead Job Raising Group at intenational student association - IAESTE Politechnika Gdańska. Find more about my projects below:
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* [IAESTE Poland](https://www.iaeste.pl/)
 
 Current experience and extensive involvement in university and extracurricular courses allows me to continuely develop my language skills - that's a great fun! It's also a really practical skillset while keeping contact with friends all over the world. That's amazing to learn about different cultures, habbits and cuisines, isn't it? 
 
