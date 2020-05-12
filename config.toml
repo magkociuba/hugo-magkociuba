@@ -1,7 +1,7 @@
 baseURL = "https://magkociuba.github.io/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Magdalena Kociuba"
+title = "Magdalena Kociuba"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -54,14 +54,14 @@ url = "mailto:magdalena.kociuba95@gmail.com"
 [menu]
 
   [[menu.main]]
-  name = "Home"
-  identifier = "home"
+  name = "About me"
+  identifier = "About me"
   weight = 100
-  url = "/"
+  url = "/about/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "Experience"
   weight = 200
-  identifier = "posts"
-  url = "/post/"
+  identifier = "Experience"
+  url = "/experience/"
 
