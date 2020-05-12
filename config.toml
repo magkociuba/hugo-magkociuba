@@ -14,7 +14,7 @@ enableEmoji = true
 
 [params]
 title = "Magdalena Kociuba"
-author = "Designed by Magdalena Kociuba"
+author = "Magdalena Kociuba"
 description = "Logistics Engineer and International Management Specialist"
 profilePicture = "images/profile_pic_1.jpg"
 keywords = ""
@@ -52,12 +52,12 @@ url = "mailto:magdalena.kociuba95@gmail.com"
 ## Menu items
 
 [menu]
-
+  
   [[menu.main]]
   name = "About me"
   identifier = "About me"
   weight = 100
-  url = "/about/"
+  url = "/"
 
   [[menu.main]]
   name = "Experience"
@@ -65,3 +65,8 @@ url = "mailto:magdalena.kociuba95@gmail.com"
   identifier = "Experience"
   url = "/experience/"
 
+  [[menu.main]]
+  name = "Passion"
+  weight = 300
+  identifier = "Passion"
+  url = "/passion/"
