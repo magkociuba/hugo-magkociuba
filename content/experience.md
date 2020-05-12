@@ -39,7 +39,7 @@ Logistics engineer and management student, developing international technical pr
 ---
 **Job Raising Group Leader, IAESTE Gdansk University of Technology** (2019-present, Gdańsk, Poland)
 
-- Cooridinator of IAESTE CaseWeek 2020 Logistics & Companies
+- Coordinator of IAESTE CaseWeek 2020 Logistics & Companies
 
 **Work and Travel - lifeguard, Preferred Pool Management** (Jul-Sep 2019, New Jersey, US)
 
