@@ -35,7 +35,7 @@ Logistics engineer and management student, developing international technical pr
 - Thesis: 
 
 ---
-#### Experience
+#### Professional experience
 ---
 **Job Raising Group Leader, IAESTE Gdansk University of Technology** (2019-present, Gdańsk, Poland)
 
