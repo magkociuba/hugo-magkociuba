@@ -9,7 +9,7 @@ name: "About"
 weight: 100
 ---
 
-Cześć! Hello! Hola! Halo!
+Cześć! Hello! Hola!
 
 My name is Magdalena, in Poland we say Magda :)
 
@@ -23,12 +23,11 @@ In my spare time I develop several international projects related to management 
 
 Current experience and extensive involvement in university and extracurricular courses allows me to continually develop my language skills - that's a great fun! It's also a really practical skill set while keeping contact with friends all over the world. That's amazing to learn about different cultures, habits and cuisines, isn't it? 
 
-Mówię po / I speak / Yo hablo / Ich spreche:
+Mówię po / I speak / Yo hablo:
 
 - Polish (native)
 - English (advanced - C1/C2)
 - Spanish (intermediate - B2)
-- German (communicative - B1)
 
 I live in Poland and plan to stay in Gdańsk for the next couple of years because this town makes me smile all the time! I would like to continue my professional career in Trójmiasto and currently I'm looking for opportunities in logistics engineering and project management.
 
